@@ -2,12 +2,12 @@
 <hr>
 # Day-1
 <hr>
-* Introduction
-* History
-* IDLE
-* Advantages
-* Applications
-* Differences between Anaconda and IDLE
+  * Introduction
+  * History
+  * IDLE
+  * Advantages
+  * Applications
+  * Differences between Anaconda and IDLE
 
 <hr>
 
