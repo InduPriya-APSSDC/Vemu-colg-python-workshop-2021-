@@ -2,8 +2,8 @@
 <hr>
 # Day-1
 <hr>
-- Introduction
-- History
+-Introduction
+-History
 - IDLE
 - Advantages
 - Apllications
